@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/the-odyssey-animated/static/css/main.587541aa.chunk.css",
+    "main.js": "/the-odyssey-animated/static/js/main.07908c77.chunk.js",
+    "main.js.map": "/the-odyssey-animated/static/js/main.07908c77.chunk.js.map",
+    "runtime-main.js": "/the-odyssey-animated/static/js/runtime-main.018695a0.js",
+    "runtime-main.js.map": "/the-odyssey-animated/static/js/runtime-main.018695a0.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/the-odyssey-animated/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.41c62c3e.chunk.js": "/the-odyssey-animated/static/js/2.41c62c3e.chunk.js",
+    "static/js/2.41c62c3e.chunk.js.map": "/the-odyssey-animated/static/js/2.41c62c3e.chunk.js.map",
+    "static/js/3.79d16fc4.chunk.js": "/the-odyssey-animated/static/js/3.79d16fc4.chunk.js",
+    "static/js/3.79d16fc4.chunk.js.map": "/the-odyssey-animated/static/js/3.79d16fc4.chunk.js.map",
+    "index.html": "/the-odyssey-animated/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/the-odyssey-animated/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.587541aa.chunk.css.map": "/the-odyssey-animated/static/css/main.587541aa.chunk.css.map",
+    "static/js/2.41c62c3e.chunk.js.LICENSE.txt": "/the-odyssey-animated/static/js/2.41c62c3e.chunk.js.LICENSE.txt",
+    "static/media/The Odyssey.bc3d3078.svg": "/the-odyssey-animated/static/media/The Odyssey.bc3d3078.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018695a0.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.41c62c3e.chunk.js",
+    "static/css/main.587541aa.chunk.css",
+    "static/js/main.07908c77.chunk.js"
+  ]
+}
