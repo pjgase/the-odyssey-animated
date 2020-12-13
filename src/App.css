@@ -1,0 +1,103 @@
+/* Grid Layout Only */
+/* .App-container {
+  border: 5px solid purple
+}
+
+.App-header {
+  border: 5px solid black
+}
+
+.Info-container {
+  border: 5px solid red
+}
+
+.Map-container {
+  border: 3px solid green;
+}
+
+.Trip-container {
+  border: 3px solid blue;
+}
+
+.Button-container {
+  border: 5px solid yellow
+}
+
+.Build-details {
+  border: 3px solid white
+} */
+
+/* Actual Styling Starts Here */
+
+.App-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-image: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=pexels-pixabay-235985.jpg&fm=jpg);
+  background-size: cover;
+  background-attachment: scroll;
+  z-index: -2; 
+  min-height: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Title-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+h1{
+  font-size: 2.25em;
+}
+
+.App-header {
+  background-color: rgba(255, 35, 0, 0.7);
+  /* background-color: #b42828e7; */
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  padding: 1vw;
+  box-shadow: 0px 5px 10px;
+  /* border-radius: 0.5vw; */
+
+}
+
+.Map-container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 5px 10px;
+}
+
+.Trip-container {
+  padding: 1vw;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 248, 232, 0.6);
+  box-shadow: 0px 5px 10px; 
+}
+
+.Trip-container h5 {
+  font-family: 'Finger Paint', cursive;
+}
+
+.Trip-container h3, p {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Button-container {
+  display: flex;
+}
+
+.Build-details {
+  color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+}
+
+

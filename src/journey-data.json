@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "name": "The Trojan War",
+        "locationTag": "#TrojanWar",
+        "routeTag": "#RouteTrojanWar",
+        "status": "After 10 long years, the Trojan War has finally come to an end...",
+        "details": "Odysseus, the king of the Greek state Ithaca, was the reason that the Trojan War ended. He was the mastermind behind the Trojan Horse ploy that let the Greek armies into the city of Troy to conquer it. After the war, he sets sail on a journey around the Mediterranean that lasts much longer than he expected."
+    },
+
+    {
+        "id": 2,
+        "name": "The Land of the Lotus Eaters",
+        "locationTag": "#LotusEaters", 
+        "routeTag": "#RouteLotusEaters",
+        "status": "Odysseus and his crew set sail for the northern coast of Africa and meet their first peril...",
+        "details": "Upon arriving in Africa, Odysseus and his soldiers meet the \"Lotus Eaters\", a people who consume a drug-like lotus flower. Odysseus and his men fall into a sleepy stupor, forget their families, and never want to leave. They only manage to get off the settlement when Odysseus comes to his senses and drags them back to the ship, ties them down, and makes them row away."
+    },
+
+    {
+        "id": 3,
+        "name": "The Cyclops: Polyphemus",
+        "locationTag": "#Cyclops",
+        "routeTag": "#RouteCyclops",
+        "status": "Sailing towards Italy, Odysseus lands on the island of the one-eyed giants...",
+        "details": "The crew is searching for supplies when they come upon what appears to be an abandoned cave. While they're enjoying the wine and food in the cave, the one-eyed giant Polyphemus returns and blocks them in. He is one of many cyclops on the island, who are descendants of the sea god Poseidon. Polyphemus asks Odysseus for his name, and he replies \"Nobody\". Throughout the night, Polyphemus devours several of Odysseus' men. \n\n The next day, Polyphemus leaves his cave again to tend to his sheep. While he's out, Odysseus and his men craft a spear and hide it. That night, Odysseus gets Polyphemus drunk on wine and when he falls asleep, the crew attack him and pierce his eye. Polyphemus is blinded and cries out to his family that \"Nobody\" hurt him, so none of the other cyclops come to help. He is unable to find Odysseus, and the crew escapes with the sheep. Odysseus gets back to the ship and brags to Polyphemus: \"I am not Nobody, I am Odysseus!\" Polyphemus asks Poseidon for revenge."
+    },
+
+    {
+        "id": 4,
+        "name": "The Island of Aeolia",
+        "locationTag": "#Aeolia",
+        "routeTag": "#RouteAeolia",
+        "status": "After escaping the cyclops, Odysseus lands on Aeolia...",
+        "details": "Odysseus comes to the island of Aeolia, home to the wind god Aeolus. Odysseus and his crew stay on the island with Aeolus and his family for a month, telling stories of the Trojan War. Aeolus favors Odysseus and decides to send him off with a kind wind and a bag that contained all of the dangerous winds. Odysseus sets sail and can see Ithaca from afar."
+    },
+
+    {
+        "id": 5,
+        "name": "Lamos and the Land of Laestrygonians",
+        "locationTag": "#Lamos",
+        "routeTag": "#RouteLamos",
+        "status": "The ship sails peacefully for home until the crew open the bag of harsher winds...",
+        "details": "The winds and the sea take them towards Lamos and the land of the Laestrygonians, a race of cannibal giants. Odysseus sends a scouting party to learn about the land and quickly finds out that he should flee. The scouts are devoured by the cannibal King Antiphates. As Odysseus is fleeing, the Laestrygonians throw boulders at their fleet, sinking all of them except for Odysseus' ship."
+    },
+
+    {
+        "id": 6,
+        "name": "The Island of Circe",
+        "locationTag": "#Circe",
+        "routeTag": "#RouteCirce",
+        "status": "Barely escaping the wrath of the cannibal giants, Odysseus continues his voyage...",
+        "details": "Odysseus arrives at the island of Circe. When exploring the island, they come across a palace of tamed wolves and lions that are uncharacteriscally friendly. This is the home of the beautiful goddess Circe. The crew are enamored, drink the honey-flavored wine that she feeds them, and turn into swine. Odysseus learns what happened and sets out to save his crew, when he meets Hermes, the messenger of the god Zeus. Hermes gives Odysseus an herb to put into his wine, so that he would be spared from turning into into an animal. Odysseus manages to have his men who are transformed back to themselves, and they stay on the island for a year as Circe's guests."
+    },
+
+    {
+        "id": 7,
+        "name": "The Land of the Dead: Hades",
+        "locationTag": "#Hades",
+        "routeTag": "#RouteHades",
+        "status": "As Odysseus decides to leave Circe, she tells him to seek out Tiresias in Hades to hear his future...",
+        "details": "Odysseus speaks to Tiresias in the land of the dead and hears his fate. Poseidon is angry with him for blinding the cyclops Polyphemus, and Tiresias warns him to not touch the sacred cattle on the island of Thrinakia. He also learns that his mother has died back home in Ithaca and that his palace and wife Penelope are overrun by suitors. "
+    },
+
+    {
+        "id": 8,
+        "name": "The Sirens",
+        "locationTag": "#Sirens",
+        "routeTag": "#RouteSirens",
+        "status": "Odysseus and his crew set sail once again, travelling past the Sirens...",
+        "details": "The Sirens are beautiful nymphs (half woman, half bird) who lure sailors on to their lands by singing to them as their ships pass by. Odysseus had learned of them from Circe, so he instructs his men to put beeswax into their ears so that they would not be drawn in by their songs. He wants to hear their songs, however, and has his men tie him to the mast. He tells them to not let him off the mast no matter what he says and to sail nearby the Sirens. Odysseus is immediately enchanted and begs to go to the sirens, but his men remain strong and they sail past."
+    },
+
+    {
+        "id": 9,
+        "name": "Charybdis and Scylla",
+        "locationTag": "#Charybdis",
+        "routeTag": "#RouteCharybdis",
+        "status": "After escaping the Sirens, the crew come across the next danger...",
+        "details": "Once again, Circe's warnings of Odysseus' travels prove true. She had warned him of Charybdis and Scylla, a dangerous strait with an unpassable whirlpool on one side and a six-headed monster in a cave on the other side. Because the whirlpool would swallow the entire ship, Odysseus instructs his men to sail close to the monster, knowing that he must sacrifice six of them to the heads of the monster in order to save the ship, as Circe foretold.    "
+    },
+
+    {
+        "id": 10,
+        "name": "Thrinakia",
+        "locationTag": "#Thrinakia",
+        "routeTag": "#RouteThrinakia",
+        "status": "Overwhelmed by their losses, Odysseus gives into his crew's wishes to rest at a nearby island...",
+        "details": "Odysseus lands on he island of Thrinakia, knowing full well that he was warned to stay away. He warns his crew to not touch the cattle. He plans to leave the next day, but the winds are too strong, and he is forced to stay for a month. The crew become restless with eating fish and birds and decide to eat the cattle. Odysseus is angry, but the crew is happy and all seems to be well. The gods vow to punish Odysseus and his men for what they had done."
+    },
+
+    {
+        "id": 11,
+        "name": "Calypso",
+        "locationTag": "#Calypso",
+        "routeTag": "#RouteCalypso",
+        "status": "The winds calm down, and Odysseus is finally able to leave Thrinakia...",
+        "details": "The crew set sail once again towards home, and all seems well on the seas when all of sudden, the skies darken and a lightning bolt comes out of the sky and destroys the ship. Only Odysseus survived and floated at sea for days until a sea nymph named Calypso finds him. She rescues Odysseus and brings him back to health in the land of Ogygia, before deciding to keep him as her immortal husband. He is imprisoned with her for 7 years before the gods send Hermes to tell Calypso to release him."
+    },
+
+    {
+        "id": 12,
+        "name": "Phaeacia",
+        "locationTag": "#Phaeacia",
+        "routeTag": "#RoutePhaeacia",
+        "status": "Odysseus sets sail from Ogygia using the stars for guidance...",
+        "details": "Odysseus is at sea for weeks on his small boat that he built, trying to return home after so many years away. However, more trouble is still coming his way. Poseidon has not forgotten Odysseus' cruel torment of his son Polyphemus on the island of the Cyclops. He decides to torment Odysseus' journey with heavy winds and high seas before Odysseus finally washes up at the Greek settlement of Phaeacia. There he recounts his 10-year long journey to King Alcinous before he is gifted a Phaeacian boat to sail home to Ithaca. "
+    },
+
+    {
+        "id": 13,
+        "name": "Return to Ithaca",
+        "locationTag": "#Ithaca",
+        "routeTag": "#RouteIthaca",
+        "status": "After 10 years of sailing the Mediterranean, Odysseus has arrived home...",
+        "details": "But Ithaca is not the same as he left it. His son Telemachus, his wife Penelope, and his estate have been overrun by suitors for the last several years. Odysseus decides to enter his land as a beggar, so as to not draw attention. His wife recognizes him and announces a contest to all of the suitors for her hand in marriage. The contest is to shoot an arrow through a tight row of 12 axes. Only Odysseus had been able to do this previously, and naturally he won the contest. Upon winning, he and Telemachus turn on all of the suitors and kill them. Odysseus has finally returned home and assumes his throne. The End!"
+    }
+]
